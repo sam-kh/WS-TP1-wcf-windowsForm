@@ -3,5 +3,5 @@
 
 Ce travail vise à créer un service web de type <b>Windows Communication Foundation (WCF)</b>
 -ayant pour but d’effectuer des simples opérations d’arithmétiques (+ - * /)- 
-avec <b>IDE Visual Studio 2019 et le tester<b>, 
+avec <b>IDE Visual Studio 2019 </b>et le tester, 
 puis le faire consommer à partir d’un client <b>Application Windows Forms</b>. 
